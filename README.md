@@ -12,4 +12,4 @@ A senior full-stack engineer with a proven track record of delivering robust and
 
 I am passionate about clean code, cloud architecture, and creating applications that provide real-world value.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TalelRomdhan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
