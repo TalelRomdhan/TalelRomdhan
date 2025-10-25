@@ -1,4 +1,4 @@
-Hello, I'm [Your Name]
+Hello, I'm Talel
 
 A senior full-stack engineer with a proven track record of delivering robust and scalable software solutions.
 
