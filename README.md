@@ -1,8 +1,8 @@
 # Talel Romdhan
 
-**Senior Software Engineer** • .NET & Cloud Specialist • Tunisia 🇹🇳
+**Senior Software Engineer** • .NET & Cloud Specialist
 
-I spend my days building distributed systems that process millions of events and serve hundreds of enterprise clients. My nights? Part-time MBA student and startup CTO.
+I spend my days building distributed systems that process millions of events and serve hundreds of enterprise clients. My nights? Startup CTO.
 
 ## What I Build
 Backend platforms for scale — think event-driven architectures, cloud-native services, and systems that heal themselves when things break.
@@ -18,7 +18,6 @@ Backend platforms for scale — think event-driven architectures, cloud-native s
 
 ## Currently
 - 🔍 Open to remote backend/platform engineering roles
-- 📚 Pursuing part-time International MBA (Corvinus, starting Sept 2026)
 - 🚀 CTO at early-stage EdTech startup
 
 ## Let's Connect
