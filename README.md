@@ -16,10 +16,6 @@ Backend platforms for scale — think event-driven architectures, cloud-native s
 - 🔧 **Self-Healing Systems:** Built platforms maintaining 99% uptime under dynamic conditions
 - 👥 **Technical Leadership:** Mentor developers, lead architecture decisions, ship at scale
 
-## Currently
-- 🔍 Open to remote backend/platform engineering roles
-- 🚀 CTO at early-stage EdTech startup
-
 ## Let's Connect
 💼 [LinkedIn](https://www.linkedin.com/in/talel-romdhan/) • 📧 [Email](mailto:talel_romdhan@outlook.com)
 
