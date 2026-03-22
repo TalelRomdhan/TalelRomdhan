@@ -22,7 +22,7 @@ Backend platforms for scale — think event-driven architectures, cloud-native s
 - 🚀 CTO at early-stage EdTech startup
 
 ## Let's Connect
-💼 [LinkedIn](your-linkedin) • 📧 [Email](mailto:your-email) • 🌐 [Website](your-site)
+💼 [LinkedIn](https://www.linkedin.com/in/talel-romdhan/) • 📧 [Email](mailto:talel_romdhan@outlook.com)
 
 ---
 
