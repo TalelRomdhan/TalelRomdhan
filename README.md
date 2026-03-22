@@ -1,14 +1,29 @@
-Hello, I'm Talel
+# Talel Romdhan
 
-A senior full-stack engineer with a proven track record of delivering robust and scalable software solutions.
+**Senior Software Engineer** • .NET & Cloud Specialist • Tunisia 🇹🇳
 
-🔹 5+ years of professional development experience in .NET and C#.
+I spend my days building distributed systems that process millions of events and serve hundreds of enterprise clients. My nights? Part-time MBA student and startup CTO.
 
-🔹 4+ years building complex, responsive user interfaces with React and TypeScript.
+## What I Build
+Backend platforms for scale — think event-driven architectures, cloud-native services, and systems that heal themselves when things break.
 
-🔹 2 years of hands-on experience with Microsoft Azure, including App Service, Azure Functions, and Azure SQL.
+**Stack:** C# / .NET 8, Azure, AWS, React, PostgreSQL  
+**Focus:** Distributed systems, platform engineering, cloud architecture
 
-🔹 Proficient in Python for ETL processes and data manipulation.
+## Impact Highlights
+- 🏗 **Platform Architecture:** Designed distributed systems serving 200+ enterprise clients
+- 💰 **Cost Optimization:** Reduced infrastructure spend by 90% through intelligent batching
+- 🔧 **Self-Healing Systems:** Built platforms maintaining 99% uptime under dynamic conditions
+- 👥 **Technical Leadership:** Mentor developers, lead architecture decisions, ship at scale
 
-I am passionate about clean code, cloud architecture, and creating applications that provide real-world value.
+## Currently
+- 🔍 Open to remote backend/platform engineering roles
+- 📚 Pursuing part-time International MBA (Corvinus, starting Sept 2026)
+- 🚀 CTO at early-stage EdTech startup
 
+## Let's Connect
+💼 [LinkedIn](your-linkedin) • 📧 [Email](mailto:your-email) • 🌐 [Website](your-site)
+
+---
+
+*"Build things that scale. Code that lasts. Teams that ship."*
